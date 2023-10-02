@@ -44,6 +44,3 @@ Whether you're a data enthusiast, content creator, or simply curious about the Y
 
 Happy exploring!
 
----
-
-Feel free to customize the summary to include specific details about your project and provide instructions on how users can run the dashboard. This will serve as a helpful introduction for users who visit your GitHub repository.
